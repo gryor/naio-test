@@ -8,3 +8,7 @@ This example will only print "Hello World!" from c++ code.
 # How to use
 1. `npm i`
 2. `node index`
+
+```
+Hello World!
+```
